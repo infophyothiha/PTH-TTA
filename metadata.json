@@ -1,0 +1,6 @@
+{
+  "name": "Text to Speech",
+  "description": "Convert text into lifelike speech using Gemini 3.1 Flash TTS with customizable voice personas, audio playback, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
